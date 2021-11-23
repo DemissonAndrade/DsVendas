@@ -6,7 +6,7 @@ const Home = () => {
     return (
         <>
             <NavBar />
-            <div className="container-fluid ">
+            <div className="container">
                 <div className="jumbotron">
                     <h1 className="display-6 text-primary">DSVendas</h1>
                     <p className="lead">Analise o desempenho das suas vendas por diferentes perspectivas</p>
